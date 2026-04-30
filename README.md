@@ -5,3 +5,4 @@ Document wallet connection setup and ecosystem entry steps
 Add guide for completing daily and weekly campaign tasks
 Include notes on point accumulation strategy and reward tracking
 Update README with Plume ecosystem insights and campaign roadmap
+Add activity logs for testnet interactions and community tasks
